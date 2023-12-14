@@ -1,0 +1,33 @@
+* {
+    padding-top: 56px;
+}
+
+.main {
+    padding: 10px 70px 10px 70px;
+}
+
+.card {
+    margin: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card-img-top {
+    width: auto;
+    height: auto;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 5px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.2;
+}
